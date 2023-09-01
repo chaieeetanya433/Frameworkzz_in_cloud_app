@@ -27,7 +27,7 @@ const teamMembers = [
     id: 4,
     name: "Anjali",
     role: "Team Member",
-    description: "Jane is a dedicated educator who believes in the power of continuous learning. With expertise in...",
+    description: "Anjali is an tech enthusiat who's always curious about upcoming technologies in the market.",
     image: "https://img.freepik.com/premium-vector/portrait-caucasian-woman-avatar-female-person-vector-icon-adult-flat-style-headshot_605517-25.jpg?w=2000", // Add team member image URL
   },
   // Add more team members
